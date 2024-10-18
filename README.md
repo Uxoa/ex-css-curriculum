@@ -18,9 +18,9 @@ Este ejercicio consiste en agregar estilos CSS a un currículum en HTML que ya t
 - **Modifier**: Una variación que cambia la apariencia o comportamiento del bloque o elemento (ejemplo: `skills__item--highlighted`, que es un modificador que resalta un elemento).
 
 
-3. **Documenta tu trabajo**:
-Añadí los estilos CSS al archivo proporcionado (`styles.css`), utilizando las clases predefinidas en el HTML.
+- **Documenta tu trabajo**:
+He añadido los estilos CSS al archivo proporcionado (`styles.css`), utilizando las clases predefinidas en el HTML.
 
 ## 📝 Estilos aplicados
-El archivo `styles.css` contiene los siguientes estilos principales, respetando la estructura BEM del HTML proporcionado
+El archivo `styles.css` contiene los estilos principales, respetando la estructura BEM del HTML proporcionado
 
