@@ -1,0 +1,55 @@
+.header {
+    background-color:#045E7C;
+    display:flex;
+    flex-direction:column;
+    padding:15px;
+    margin:15px;
+    text-align:center;
+    color:white;
+    border-radius:15px;
+}
+
+
+
+.header a:link{
+    color:white;
+    text-decoration: none;
+}
+
+main {
+    display:flex;
+    flex-direction:column;
+    padding:15px;
+    margin:15px;
+}
+
+section {
+flex-direction: row;
+}
+
+.section__title {
+    color:#045E7C;
+    border-bottom: 2px solid #045E7C;
+}
+
+.experience h3.experience__job-title{
+    color: dimgray;
+}
+
+p.experience__date{
+    color:#045E7C;
+    font-style:italic;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+footer{
+    background-color:#045E7C;
+    display:flex;
+    flex-direction:column;
+    padding:15px;
+    margin:15px;
+    text-align:center;
+    color:white;
+    border-radius:15px;
+}
